@@ -1,0 +1,6 @@
+pandas==2.2.3
+datetime==5.5
+streamlit==1.41.1
+matplotlib==3.8.2
+seaborn==0.13.2
+plotly==5.18.0
